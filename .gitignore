@@ -1,2 +1,4 @@
-data/confg.php
+data/config.php
 temp/*
+temp/static_caches/*
+temp/compiled/*
