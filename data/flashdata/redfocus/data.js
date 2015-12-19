@@ -1,0 +1,22 @@
+imgUrl1="data/afficheimg/20150410gnfjhm.jpg";
+imgtext1="";
+imgLink1=escape("http://www.ecmoban.com");
+imgUrl2="data/afficheimg/20141021aziwud.png";
+imgtext2="";
+imgLink2=escape("http://ectouch.cn/");
+imgUrl3="data/afficheimg/20141022dacwiw.png";
+imgtext3="";
+imgLink3=escape("http://www.ecmoban.com/djd/");
+imgUrl4="data/afficheimg/20150410cpknjf.png";
+imgtext4="";
+imgLink4=escape("http://www.ecmoban.com/topic/shangchuang2/index.html");
+imgUrl5="data/afficheimg/20141022vbuvgk.png";
+imgtext5="";
+imgLink5=escape("http://www.ecmoban.com/shangchuang/");
+imgUrl6="data/afficheimg/20141022nvtssl.png";
+imgtext6="";
+imgLink6=escape("http://www.ecmoban.com/weixin/ ");
+
+var pics=imgUrl1+"|"+imgUrl2+"|"+imgUrl3+"|"+imgUrl4+"|"+imgUrl5+"|"+imgUrl6;
+var links=imgLink1+"|"+imgLink2+"|"+imgLink3+"|"+imgLink4+"|"+imgLink5+"|"+imgLink6;
+var texts=imgtext1+"|"+imgtext2+"|"+imgtext3+"|"+imgtext4+"|"+imgtext5+"|"+imgtext6;
